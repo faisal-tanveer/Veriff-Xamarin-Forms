@@ -20,5 +20,9 @@ Right Click on references by expanding IOS project in Xamarin forms. Then Click 
 
 
 
-
+</br>
+</br></br>
+</br></br>
+</br>
+Sample Code Is Provided!
 
