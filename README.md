@@ -18,11 +18,8 @@ Right Click on references by expanding Android project in Xamarin forms. Then Cl
 <b>How to Add Veriff Libraries in Xamarin IOS Project?</b></br>
 Right Click on references by expanding IOS project in Xamarin forms. Then Click on Add New Reference and select all dll files provided in folder Veriff IOS Bindings.</br>
 
-
-
 </br>
-</br></br>
-</br></br>
+</br>
 </br>
 Sample Code Is Provided!
 
